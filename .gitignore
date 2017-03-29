@@ -1,0 +1,14 @@
+*.class
+.mtj.tmp/
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.log
+.gradle
+build
+out
+.DS_Store
+download
+.idea/
