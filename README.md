@@ -3,3 +3,9 @@ Use java to access Ceph rados gateway API. Ceph rados gateway supports RESTful A
 
 This project includes the libs that help easy to utilize.
 
+# How to use it
+```
+mvn compile
+./run_example.sh SimpleS3
+```
+
